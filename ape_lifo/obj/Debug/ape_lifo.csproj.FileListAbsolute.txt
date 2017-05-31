@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\bin\Debug\ape_lifo.exe.config
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\bin\Debug\ape_lifo.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\bin\Debug\ape_lifo.pdb
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\obj\Debug\ape_lifo.csprojResolveAssemblyReference.cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\obj\Debug\ape_lifo.frmPrincipal.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\obj\Debug\ape_lifo.Properties.Resources.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\obj\Debug\ape_lifo.csproj.GenerateResource.Cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\obj\Debug\ape_lifo.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_lifo\ape_lifo\obj\Debug\ape_lifo.pdb
